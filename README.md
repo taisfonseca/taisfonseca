@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back-end em formação`**
 
-Me chamo Taís Fonseca, tenho 21 anos e sou do estado de São Paulo. Sou **formada em Análise e Desenvolvimento de Sistemas** e **Técnica em Informática pelo IFSP**. Atualmente, estou focada em **desenvolvimento back-end**, buscando minha **primeira oportunidade na área de tecnologia**. Tenho interesse em aprender continuamente, desenvolver projetos práticos e trocar experiências com outras pessoas da área.
+Me chamo Taís Fonseca, tenho 21 anos e sou do estado de São Paulo. Sou formada em Análise e Desenvolvimento de Sistemas e Técnica em Informática pelo IFSP. Atualmente, estou focada em desenvolvimento back-end, buscando minha primeira oportunidade na área de tecnologia. Tenho interesse em aprender continuamente, desenvolver projetos práticos e trocar experiências com outras pessoas da área.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ta%C3%ADs-fonseca-b93bb8260/" target="_blank">
