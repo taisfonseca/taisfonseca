@@ -1,24 +1,63 @@
-## Hello, welcome to my space! 👋
+# 👩🏻‍💻 Taís Fonseca
 
-- 🔭 Atualmente, estou em busca da minha primeira oportunidade de emprego na área de tecnologia 
-- 🌱 Estou cursando **Análise e Desenvolvimento de Sistemas**  
-- 👯 Tenho interesse em colaborar em projetos de **desenvolvimento de software**  
-- 🤔 Estou sempre em busca de aprender novas tecnologias e boas práticas de programação  
-- 💬 Pode perguntar sobre programação, estudos ou tecnologia!  
-- 😄 Pronomes: ela/dela  
-- ⚡ Curiosidade: adoro aprender coisas novas e sou apaixonada por tecnologia  
+**`Desenvolvedora Back-end em formação`**
 
-##
+Me chamo Taís Fonseca, tenho 21 anos e sou do estado de São Paulo. Sou **formada em Análise e Desenvolvimento de Sistemas** e **Técnica em Informática pelo IFSP**. Atualmente, estou focada em **desenvolvimento back-end**, buscando minha **primeira oportunidade na área de tecnologia**. Tenho interesse em aprender continuamente, desenvolver projetos práticos e trocar experiências com outras pessoas da área.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taisfonsec&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taisfonsec&layout=compact&theme=tokyonight)
+<p align="left">
+    <a href="https://www.linkedin.com/in/ta%C3%ADs-fonseca-b93bb8260/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/taisfonseca?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/taisfonseca?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/taisfonseca?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/taisfonseca?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-##
- 
-<div> 
-  <a href="mailto:tais.fonsec3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/taís-fonseca-b93bb8260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<!--
+Adicione aqui os ícones das tecnologias quando desejar,
+seguindo o mesmo padrão do modelo.
+-->
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=taisfonseca&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisfonseca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taisfonsec/taisfonsec/output/github-contribution-grid-snake-dark.svg">
