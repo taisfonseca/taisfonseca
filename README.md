@@ -8,13 +8,16 @@ Me chamo Taís Fonseca, tenho 21 anos e sou do estado de São Paulo. Sou formada
 
 ### 🤖 Linguagens e Tecnologias
 
+> _Esta seção será atualizada em breve conforme minha stack evolui._
+
 <!--
 Adicione aqui os ícones das tecnologias quando desejar,
 seguindo o mesmo padrão do modelo.
 -->
 
 <br/>
-<br/>
+
+---
 
 ### 📊 Estatísticas
 
@@ -31,9 +34,19 @@ seguindo o mesmo padrão do modelo.
 
 <br/>
 
+---
+
+### 🐍 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taisfonseca/taisfonseca/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taisfonseca/taisfonseca/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/taisfonseca/taisfonseca/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+### 📫 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ta%C3%ADs-fonseca-b93bb8260/)
+- 💻 Aqui no GitHub você encontra meus estudos e projetos em desenvolvimento
