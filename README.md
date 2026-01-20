@@ -18,19 +18,19 @@ seguindo o mesmo padrão do modelo.
 
 ### 📊 Estatísticas
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div align="center">
   <img 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=taisfonseca&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=taisfonseca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
-  
   <img 
-      alt="GitHub Stats Top Linguagens" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisfonseca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisfonseca&layout=compact&langs_count=7&theme=tokyonight"
   />
 </div>
+
+<br/>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taisfonseca/taisfonseca/output/github-contribution-grid-snake-dark.svg">
