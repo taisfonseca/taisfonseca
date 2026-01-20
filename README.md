@@ -4,30 +4,6 @@
 
 Me chamo Taís Fonseca, tenho 21 anos e sou do estado de São Paulo. Sou formada em Análise e Desenvolvimento de Sistemas e Técnica em Informática pelo IFSP. Atualmente, estou focada em desenvolvimento back-end, buscando minha primeira oportunidade na área de tecnologia. Tenho interesse em aprender continuamente, desenvolver projetos práticos e trocar experiências com outras pessoas da área.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/ta%C3%ADs-fonseca-b93bb8260/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/taisfonseca?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/taisfonseca?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/taisfonseca?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/taisfonseca?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -42,22 +18,19 @@ seguindo o mesmo padrão do modelo.
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=taisfonseca&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-      align="left" 
       alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=taisfonseca&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  
+  <img 
+      alt="GitHub Stats Top Linguagens" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisfonseca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
-</p>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taisfonseca/taisfonseca/output/github-contribution-grid-snake-dark.svg">
