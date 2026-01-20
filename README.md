@@ -20,11 +20,11 @@ seguindo o mesmo padrão do modelo.
 
 <div align="center">
   <img 
-    height="170em" 
+    height="160em" 
     src="https://github-readme-stats.vercel.app/api?username=taisfonseca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
   <img 
-    height="170em" 
+    height="160em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisfonseca&layout=compact&langs_count=7&theme=tokyonight"
   />
 </div>
