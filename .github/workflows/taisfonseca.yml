@@ -2,35 +2,34 @@ name: Snake Game
 
 on:
   schedule:
-    # Executa a cada 5 horas
     - cron: "0 */5 * * *"
-  # Permite execução manual
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate-snake:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      # Faz checkout do repositório
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      # Gera a cobrinha
       - name: Generate Snake
-        uses: Platane/snk@v3.2.0
+        uses: Platane/snk@v3
         with:
           github_user_name: taisfonseca
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Publica os arquivos na branch "output"
-      - name: Publish to output branch
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
+
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
