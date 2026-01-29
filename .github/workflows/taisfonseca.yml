@@ -1,50 +1,38 @@
-# Nome da Actions:
 name: Snake Game
 
-# Controlador do tempo que sera feito a atualização dos arquivos.
 on:
   schedule:
-    # Será atualizado a cada 5 horas.
+    # Executa a cada 5 horas
     - cron: "0 */5 * * *"
-
-  # Permite executar na lista de Actions (utilizado para testes de build).
+  # Permite execução manual
   workflow_dispatch:
 
-# Permissões necessárias para permitir push no repositório
 permissions:
   contents: write
 
-# Regras
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
+
     steps:
+      # Faz checkout do repositório
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    # Checks repo under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
-
-    # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@v3
-        id: snake-gif
+      # Gera a cobrinha
+      - name: Generate Snake
+        uses: Platane/snk@v3.2.0
         with:
-          github_user_name: taisfonseca # Seu usuario
+          github_user_name: taisfonseca
           outputs: |
-            dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.gif
 
-      - run: git status
-
-      # Para as atualizações.
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      # Publica os arquivos na branch "output"
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
         env:
