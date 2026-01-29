@@ -14,12 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate Snake (Dark Mode)
         uses: Platane/snk@v3
         with:
           github_user_name: taisfonseca
           outputs: |
-            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push changes
